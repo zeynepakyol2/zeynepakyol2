@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Yapay+Zeka+%26+Derin+%C3%96%C4%9Frenme+Tutkunu;S%C3%BCrekli+%C3%B6%C4%9Frenen+bir+m%C3%BChendisi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Yapay+Zeka+%26+Derin+%C3%96%C4%9Frenme" alt="Typing SVG" />
 </p>
 
 
@@ -26,16 +26,6 @@ Bilgisayar Mühendisliği öğrencisiyim ve yazılım geliştirme + yapay zeka a
 
 **Bilgisayar Mühendisliği**, Bolu Abant İzzet Baysal Üniversitesi (2022 - 2026)
 
-## 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zeynepakyol2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepakyol2&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepakyol2&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</p>
 
 ## 📫 Bana Ulaşın
 
@@ -44,6 +34,4 @@ Bilgisayar Mühendisliği öğrencisiyim ve yazılım geliştirme + yapay zeka a
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.zeynepakyol.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeynepakyol606@gmail.com)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=100&section=footer"/>
-</p>
+
