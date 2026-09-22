@@ -2,7 +2,7 @@
 
 Bilgisayar Mühendisiyim ve yazılım geliştirme + yapay zeka alanlarında pratik proje deneyimi biriktiriyorum. Backend, frontend ve makine öğrenmesi projelerinde aktif olarak yer aldım.
 
-## 🛠️ Teknik Yeteneklerim
+## Teknik Yeteneklerim
 
 - **Programlama:** Python, C#, Java, JavaScript, PHP
 - **Backend:** ASP.NET (C#), Laravel (PHP), Spring Boot (Java)
@@ -12,7 +12,7 @@ Bilgisayar Mühendisiyim ve yazılım geliştirme + yapay zeka alanlarında prat
 - **Veritabanları:** PostgreSQL, MS SQL Server, MySQL, H2
 - **Araçlar:** Git, GitHub, Docker, Maven, Swagger, VS Code
 
-## 💼 Deneyimlerim
+## Deneyimlerim
 
 - **Bluesense AI** — ASP.NET monolit mimarili "Smart Beauty" projesinde API geliştirme, performans optimizasyonu, Swagger ile test/dokümantasyon, Docker ile konteynerleştirme
 - **Hipopotamya** — Laravel tabanlı projede kod optimizasyonu, bug fix ve yeni backend özellikleri
@@ -21,7 +21,7 @@ Bilgisayar Mühendisiyim ve yazılım geliştirme + yapay zeka alanlarında prat
 
 
 
-## 📫 Bana Ulaşın
+## Bana Ulaşın
 zeynepakyol606@gmail.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeynepakyol-a074982b8/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/zeynepakyol12)
