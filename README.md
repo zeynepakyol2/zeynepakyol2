@@ -1,6 +1,6 @@
 # Merhaba, ben Zeynep 👋
 
-Bilgisayar Mühendisiyim ve yazılım geliştirme + yapay zeka alanlarında pratik proje deneyimi biriktiriyorum. Backend, frontend ve makine öğrenmesi projelerinde aktif olarak yer aldım.
+Bilgisayar Mühendisiyim ve yazılım geliştirme + yapay zeka alanlarında proje deneyimi biriktiriyorum. Backend, frontend ve makine öğrenmesi projelerinde aktif olarak yer aldım.
 
 ## Teknik Yeteneklerim
 
