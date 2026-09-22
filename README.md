@@ -7,7 +7,7 @@
 
 Bilgisayar Mühendisiyim ve yazılım geliştirme + yapay zeka alanlarında pratik proje deneyimi biriktiriyorum. Backend, frontend ve makine öğrenmesi projelerinde aktif olarak yer aldım.
 
-## 🛠️ Teknik Yeteneklerim
+## Teknik Yeteneklerim
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cs,java,js,php,dotnet,laravel,spring,react,nextjs,tensorflow,postgres,mysql,git,github,docker,vscode&perline=17" />
@@ -22,12 +22,12 @@ Bilgisayar Mühendisiyim ve yazılım geliştirme + yapay zeka alanlarında prat
 - **Araçlar:** Git, GitHub, Docker, Maven, Swagger, VS Code
 
 
-## 🎓 Eğitim
+## Eğitim
 
 **Bilgisayar Mühendisliği**, Bolu Abant İzzet Baysal Üniversitesi (2022 - 2026)
 
 
-## 📫 Bana Ulaşın
+## Bana Ulaşın
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeynepakyol-a074982b8/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/zeynepakyol12)
