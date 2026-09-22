@@ -9,7 +9,7 @@ Bilgisayar Mühendisiyim ve yazılım geliştirme + yapay zeka alanlarında prat
 
 ## 🛠️ Teknik Yeteneklerim
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,cs,java,js,php,dotnet,laravel,spring,react,nextjs,tensorflow,postgres,mysql,mssql,git,github,docker,vscode" />
 </p>
 
