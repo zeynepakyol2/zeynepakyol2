@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=Zeynep%20Akyol&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Bilgisayar%20M%C3%BChendisi%20%7C%20Full-Stack%20%26%20AI&descSize=18&descAlignY=58"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0%3A6A5ACD%2C100%3A00BFFF&height=200&section=header&text=Zeynep%20Akyol&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Computer%20Engineer%20%7C%20Full-Stack%20%26%20AI&descSize=18&descAlignY=58"
+    alt="Zeynep Akyol"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Yapay+Zeka+%26+Derin+%C3%96%C4%9Frenme+Tutkunu;S%C3%BCrekli+%C3%B6%C4%9Frenen+bir+m%C3%BChendislik+%C3%B6%C4%9Frencisi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Yapay+Zeka+%26+Derin+%C3%96%C4%9Frenme+Tutkunu;S%C3%BCrekli+%C3%B6%C4%9Frenen+bir+m%C3%BChendisi" alt="Typing SVG" />
 </p>
 
 <p align="center">
