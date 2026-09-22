@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Yapay+Zeka+%26+Derin+%C3%96%C4%9Frenme+Tutkunu;S%C3%BCrekli+%C3%B6%C4%9Frenen+bir+m%C3%BChendisi" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeynepakyol2&color=6A5ACD&style=flat&label=Profil+Ziyaret%C3%A7isi" alt="profile views"/>
-</p>
 
 ## Merhaba ben Zeynep👋
 
@@ -24,23 +21,6 @@ Bilgisayar Mühendisliği öğrencisiyim ve yazılım geliştirme + yapay zeka a
 - **Veritabanları:** PostgreSQL, MS SQL Server, MySQL, H2
 - **Araçlar:** Git, GitHub, Docker, Maven, Swagger, VS Code
 
-## 💼 Deneyimlerim
-
-- **Bluesense AI** — ASP.NET monolit mimarili "Smart Beauty" projesinde API geliştirme, performans optimizasyonu, Swagger ile test/dokümantasyon, Docker ile konteynerleştirme
-- **Hipopotamya** — Laravel tabanlı projede kod optimizasyonu, bug fix ve yeni backend özellikleri
-- **FdnSoft** — React.js ile küçük ölçekli frontend projeleri
-- **TNC Group** — Python, Excel, AutoCAD, Photoshop eğitim programı ve bitirme projeleri
-
-## 🚀 Öne Çıkan Projelerim
-
-- 🩹 **[Termal Kamera ile Yara Tespiti](https://github.com/zeynepakyol2/Termal_Kamera)** — TensorFlow/MobileNetV2 tabanlı 3 farklı derin öğrenme modeli (yara var/yok, yara evresi, risk seviyesi tahmini) + Kotlin mobil entegrasyonu
-- 🔧 **[Task Management REST API](https://github.com/zeynepakyol2/task-management-api)**
-- 📝 **[Blog Web Sitesi (ASP.NET)](https://github.com/zeynepakyol2/Blog_Projem)**
-- 🤝 **[Dernek Web Sitesi (Laravel)](https://github.com/zeynepakyol2/Dernek)**
-- 💻 **[Kişisel Portfolyo (React.js)](https://github.com/zeynepakyol2/portfolio)**
-- 🛒 **[E-Ticaret Web Sitesi (React.js)](https://github.com/zeynepakyol2/E-ticarett)**
-- 💱 **[Döviz Çevirici (React.js)](https://github.com/zeynepakyol2/currency-exchange-app)**
-- 🏥 **Mhrs Sistemi (Java)**
 
 ## 🎓 Eğitim
 
